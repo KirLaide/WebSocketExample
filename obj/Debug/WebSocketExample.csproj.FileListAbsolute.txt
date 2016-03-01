@@ -1,0 +1,20 @@
+C:\CODE\ASecurity.PSIM\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.exe.config
+C:\CODE\ASecurity.PSIM\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.exe
+C:\CODE\ASecurity.PSIM\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.pdb
+C:\CODE\ASecurity.PSIM\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.csprojResolveAssemblyReference.cache
+C:\CODE\ASecurity.PSIM\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.exe
+C:\CODE\ASecurity.PSIM\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.pdb
+C:\doc\ASecurity.PSIM\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.exe.config
+C:\doc\ASecurity.PSIM\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.exe
+C:\doc\ASecurity.PSIM\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.pdb
+C:\doc\ASecurity.PSIM\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.exe
+C:\doc\ASecurity.PSIM\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.pdb
+C:\doc\Shared Project\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.exe.config
+C:\doc\Shared Project\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.exe
+C:\doc\Shared Project\MSXP Plugins\WebSocketExample\bin\Debug\WebSocketExample.pdb
+C:\doc\Shared Project\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.exe
+C:\doc\Shared Project\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.pdb
+C:\doc\Shared Project\MSXP Plugins\WebSocketExample\obj\Debug\WebSocketExample.csprojResolveAssemblyReference.cache
+C:\doc\WebSocketExample\bin\Debug\WebSocketExample.exe.config
+C:\doc\WebSocketExample\obj\Debug\WebSocketExample.exe
+C:\doc\WebSocketExample\obj\Debug\WebSocketExample.pdb
